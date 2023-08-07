@@ -1,7 +1,4 @@
 # huaji
-A website for 滑稽
+A website for 滑稽 but 🥵
 
---------
-
-~~其实代码不是我写的~~  
-感谢 http://lvmaojun.com/huaji/
+> fork from [Lhcfl](https://github.com/Lhcfl/)
